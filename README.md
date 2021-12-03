@@ -27,5 +27,4 @@ npm run build-prod
 
 Open the file `dist/index.html` in your browser
 
-<img src = "C:\Users\pranav rushi\Desktop\1.jpg">
 
